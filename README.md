@@ -1,6 +1,6 @@
-#File Uploader
+# File Uploader
 
-###File Upload Handler and Email Service built in .NET Core
+### File Upload Handler and Email Service built in .NET Core
 
 **Getting Started**
 
