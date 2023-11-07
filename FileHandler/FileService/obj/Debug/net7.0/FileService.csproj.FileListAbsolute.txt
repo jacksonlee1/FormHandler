@@ -1,0 +1,12 @@
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\obj\Debug\net7.0\FileService.csproj.AssemblyReference.cache
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\obj\Debug\net7.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\obj\Debug\net7.0\FileService.AssemblyInfoInputs.cache
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\obj\Debug\net7.0\FileService.AssemblyInfo.cs
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\obj\Debug\net7.0\FileService.csproj.CoreCompileInputs.cache
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\bin\Debug\net7.0\FileService.deps.json
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\bin\Debug\net7.0\FileService.dll
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\bin\Debug\net7.0\FileService.pdb
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\obj\Debug\net7.0\FileService.dll
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\obj\Debug\net7.0\refint\FileService.dll
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\obj\Debug\net7.0\FileService.pdb
+C:\Dev\Web\DecoIndy\api\FileHandler\FileService\obj\Debug\net7.0\ref\FileService.dll
